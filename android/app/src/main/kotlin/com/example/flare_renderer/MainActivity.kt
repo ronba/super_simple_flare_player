@@ -1,0 +1,6 @@
+package com.example.flare_renderer
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
